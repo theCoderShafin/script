@@ -24,6 +24,6 @@ textLabel.Font = Enum.Font.SourceSansBold
 textLabel.Text = "⚠ WARNING ⚠\n\nIf you're seeing this message, please do not execute scripts given by strangers online as they can retrieve or get all your data just from some few code lines and send it out as HTTP, API request to their computers. Though, you are lucky to know that I am not one of those people. This is a warning and please stay away from executing unsafe scripts."
 textLabel.Parent = frame
 
-wait(10)
+wait(30)
 
 player:Kick("Timed kick request by executed script.")
